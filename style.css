@@ -196,3 +196,9 @@ ul {
   }
 
 }
+
+@media(min-width:1440px){
+  #container{
+    padding: 15rem;
+  }
+}
